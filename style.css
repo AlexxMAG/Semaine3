@@ -1,0 +1,24 @@
+/*
+.carre,.carre1{
+    height: 600px;
+    width: 600px;
+    background-color: red;
+    margin: 10px;
+}
+
+.carre:hover{
+    background-image: url(https://cdn.pixabay.com/photo/2019/04/27/23/51/china-4161674_960_720.jpg);
+}
+
+.carre1:active{
+    background-color: blue;
+}
+
+.carre1{
+    float: left;
+}
+
+.carre{
+    float: right;
+}*/
+
